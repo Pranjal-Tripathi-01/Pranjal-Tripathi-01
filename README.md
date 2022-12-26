@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pranjal-Tripathi-01
-- 👀 I’m interested in Software Development, Data Science, Big Data and Data Engineering
-- 🌱 I’m currently learning Bioinformatics
-- 💞️ I’m looking to collaborate on SD and DS Projects
+- 👀 I’m interested in Data Science, Big Data and Data Engineering
+- 🌱 I’m currently learning Data INformatics
+- 💞️ I’m looking to collaborate on Data Science and Data Engineering Projects
 - 📫 How to reach me pranjaltripathi7867@gmail.com
 
 <!---
