@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Pranjal-Tripathi-01
+- 👋 Hi, I’m Pranjal Tripathi
 - 👀 I’m interested in Data Science, Big Data and Data Engineering
-- 🌱 I’m currently learning Data INformatics
+- 🌱 I’m currently learning Data Informatics
 - 💞️ I’m looking to collaborate on Data Science and Data Engineering Projects
 - 📫 How to reach me pranjaltripathi7867@gmail.com
 
